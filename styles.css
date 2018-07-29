@@ -1,0 +1,17 @@
+main {
+  background-image: url(http://asherbrewing.com/wp-content/uploads/2013/04/15617767_ml1.jpg);
+  font-family: 'Open Sans', sans-serif;
+  justify-content: center;
+  height: 400px;
+}
+
+h3, h4 {
+  font-weight: bold;
+  align-self: center;
+  padding-top: 2em;
+  padding-left: 30%;
+}
+
+.row-header {
+  align-self: center;
+}
